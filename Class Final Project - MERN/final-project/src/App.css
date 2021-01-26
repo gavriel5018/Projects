@@ -1,0 +1,68 @@
+.minh-900 {min-height: 900px;}
+
+.usernav-link {
+    color: white;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.usernav-link:hover {
+    color: #28a745;
+    transition: 0.5s ease-out;
+    text-decoration: none;
+}
+
+.register {
+    color: white;
+    font-size: 0.9rem;
+}
+
+.register:hover {
+    color: white;
+    text-decoration: none;
+}
+
+  .img-header {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.footer-links {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-links:hover {
+    color: #28a745;
+    text-decoration: none;
+    transition: 0.3s ease-in;
+    font-weight: bold;
+}
+
+.usernav {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.usernav:hover {
+    color: #28a745;
+    text-decoration: none;
+    transition: 0.5s ease-out;
+}
+
+.signin {
+    display: -webkit-box;
+}
+
+.comment {
+    resize: none;
+    height: 100px;
+    width: 350px;
+  }
+
+  .help-block {
+      max-width: 200px;
+      font-size: 0.9rem;
+  }
